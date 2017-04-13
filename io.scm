@@ -1,0 +1,1 @@
+(define i (open-input-file "io.txt"))
